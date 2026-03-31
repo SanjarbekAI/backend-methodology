@@ -1,0 +1,7 @@
+1. student presentations for the projects
+2. Pair programming tasks
+3. Real life problem solutions and getting feedbacks
+4. System design exercises
+5. Code reviews and refactoring sessions, open source contributions
+6. Mock interviews and coding challenges
+7. Hackathons and coding competitions
