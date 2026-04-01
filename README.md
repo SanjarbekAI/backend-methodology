@@ -106,7 +106,7 @@ This trains **debugging skills, code reading, and attention to detail**.
 
 ## 🚀 Planned Additions
 
-Ideas tracked in [`should-be-added.txt`](./should-be-added.txt):
+Ideas tracked in [`should-be-added.txt`](notes/should-be-added.txt):
 
 - 🎤 Student project presentations (communication & confidence)
 - 👥 Pair programming sessions
